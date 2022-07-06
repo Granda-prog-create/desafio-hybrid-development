@@ -6,6 +6,8 @@ Para que ela funcione, vá até a pasta photo-gallery (cd photo-gallery)
 
 npm start para rodar a aplicação. 
 
+A galeria possui um slider, onde o usuário pode mudar as fotos após clicar nela. 
+
 
 O site onde peguei as fotos é o PlaceIMG
 
